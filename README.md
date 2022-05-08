@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm DoaaEldesoki</h1>
-<h3 align="center">A passionate Mearn Stack developer from Egypt</h3>
+<h1 align="center">Hi 👋, I'm Doaa Eldesoki</h1>
+<h3 align="center">A passionate Mearn Stack developer</h3>
 
 - 🔭 I’m currently working as a [freelancer](on Upwork)
 
